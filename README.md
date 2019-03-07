@@ -6,3 +6,5 @@ description: Community managed submissions
 
 This website is hosted on Github and syncs to Gitbook, which is openly available to the community for editing.
 
+{% page-ref page="example-notary-proposoal.md" %}
+
